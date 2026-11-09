@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20261027115433S8RVEK</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20261027115433PZROQQ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.6</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>El reloj de Guille</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>EPVA / 1º ESO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Miguel Ángel Gómez Mercado</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Introducción al lenguaje geométrico mediante diseño y reproducción de un reloj geométrico</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.6</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1794263806325</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScore</key>
+    <value>5</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScoreEveryActivity</key>
+    <value>false</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mvqkqjyb-o6ojodn8y</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1.- Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.- Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1.- Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvqkqjyb-o6ojodn8y</odePageId>
+      <odeBlockId>block-mvrzsjsa-h1ll4u5z8</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvqkqjyb-o6ojodn8y</odePageId>
+          <odeBlockId>block-mvrzsjsa-h1ll4u5z8</odeBlockId>
+          <odeIdeviceId>idevice-1793184567848-h057tlt0r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHabPVf1W0/JrWW5gAaxR58zDiuj8zmfQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHabPVf1W0/JrWW5gAaxR58zDiuj8zmfQ/view?utm_content=DAHabPVf1W0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">1.- Presentación y descripción del proyecto</a> de Miguel Ángel Gómez Mercado</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793184567848-h057tlt0r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHabPVf1W0/JrWW5gAaxR58zDiuj8zmfQ/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHabPVf1W0/JrWW5gAaxR58zDiuj8zmfQ/view?utm_content=DAHabPVf1W0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">1.- Presentación y descripción del proyecto</a> de Miguel Ángel Gómez Mercado</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mw7j315o-pyq992xsu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2.- Protección de datos y garantías de derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.- Protección de datos y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2.- Protección de datos y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mw7j315o-pyq992xsu</odePageId>
+      <odeBlockId>block-mw7j91z3-kg4w6h1e4</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw7j315o-pyq992xsu</odePageId>
+          <odeBlockId>block-mw7j91z3-kg4w6h1e4</odeBlockId>
+          <odeIdeviceId>idevice-1794124243261-dkw638kcv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 212.0891%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHaT9F93KY/PEOnOML-jbbDNg_B2e8RVQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHaT9F93KY/PEOnOML-jbbDNg_B2e8RVQ/view?utm_content=DAHaT9F93KY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">2.- Protección de datos y garantías de derechos digitales</a> de Miguel Ángel Gómez Mercado</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794124243261-dkw638kcv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 212.0891%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHaT9F93KY/PEOnOML-jbbDNg_B2e8RVQ/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHaT9F93KY/PEOnOML-jbbDNg_B2e8RVQ/view?utm_content=DAHaT9F93KY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">2.- Protección de datos y garantías de derechos digitales</a> de Miguel Ángel Gómez Mercado</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvqkwywm-97anfpouk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3.- Curación de contenidos destinada al alumnado</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.- Curación de contenidos destinada al alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Destinada al alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.- Curación de contenidos destinada al alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvqkwywm-97anfpouk</odePageId>
+      <odeBlockId>block-mvqng03u-dp5yn2qw7</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvqkwywm-97anfpouk</odePageId>
+          <odeBlockId>block-mvqng03u-dp5yn2qw7</odeBlockId>
+          <odeIdeviceId>idevice-1793103360904-qoh3ua375</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/s024uexd0y8kftqf0fao" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+</div>
+<hr />
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Con el objetivo de tutorizar al alumnado de 1.º de ESO en "El Reloj de Guille", he preparado un mural colaborativo en <span style="color: #34495e;"><strong>Padlet</strong></span> que responde a sus necesidades reales y ritmos digitales. Estructuré este entorno siguiendo el ciclo completo de curación de contenidos: detectar sus necesidades, filtrar la información, organizarla de forma visual, abrir el espacio para compartir y, finalmente, evaluar el impacto de su aprendizaje.</span></p>
+<hr />
+<h3 style="text-align: justify;"><span style="color: #34495e; font-family: arial, helvetica, sans-serif;"><strong>Descripción y estructura del contenido</strong></span></h3>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">El tablero está organizado por columnas temáticas que guían al estudiante paso a paso a lo largo de las sesiones del proyecto:</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;" title="">Para revisar el tablero, consulta este enlace de <strong>Padlet:</strong>  <strong><a href="https://padlet.com/mgommer619/el-reloj-de-guille-s024uexd0y8kftqf0fao" target="_blank" rel="noopener">(se abre en nueva ventana)</a></strong>.</span></p>
+<hr />
+<h5 style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif;"><strong><span style="color: #3598db;">Guías visuales y vídeos sobre el manejo correcto de los materiales de dibujo técnico</span></strong></span></h5>
+<hr />
+<p><span style="font-family: arial, helvetica, sans-serif;"><strong>Manejo de escuadra y cartabón (Trazados y ángulos):</strong><strong></strong></span></p>
+<ul>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Trazado de perpendiculares y paralelas:</strong> Píldora visual rápida de Los Profes De Ciencias muy útil para el alumnado principiante.</span></li>
+</ul>
+<p style="padding-left: 40px;"><span style="font-family: arial, helvetica, sans-serif;" title="">🔗 <strong><a href="https://youtu.be/98O5bS0EZPc?si=4tFaxAzV8aFGGF_X" target="_blank" rel="noopener">Ver video de youTube</a></strong>.</span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Paralelas con escuadra y cartabón paso a paso: </strong>Vídeo corto de Dibujo Técnico paso a paso ideal para el alumnado de primeros cursos de Secundaria.<br /></span></li>
+</ul>
+<p style="padding-left: 40px;"><span style="font-family: arial, helvetica, sans-serif;" title="">🔗 <strong><a href="https://youtu.be/simgHmsyEww?si=ZzqlTKXJ77AEj0cf" target="_blank" rel="noopener">Ver video de youTube</a></strong>.</span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Ángulos básicos con escuadra y cartabón (30°, 45°, 60° y 90°):</strong> Un excelente vídeo explicativo de Arturo Pinilla que muestra la disposición correcta de ambas herramientas sobre el papel.</span></li>
+</ul>
+<p style="padding-left: 40px;"><span style="font-family: arial, helvetica, sans-serif;" title="">🔗 <strong><a href="https://youtu.be/Y9eNCkvv4F4?si=77ZgpysJTdyUTm1Y" target="_blank" rel="noopener">Ver video de youTube</a></strong>.</span></p>
+<hr />
+<p><span style="font-family: arial, helvetica, sans-serif;"><strong>Manejo Correcto del Compás</strong></span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Consejos prácticos para el uso del compás: </strong>Tutorial detallado del canal Educación Plástica EPVA enfocado en la postura de los dedos, la presión adecuada sobre el papel y la orientación de la mina para evitar imprecisiones.</span></li>
+</ul>
+<p style="padding-left: 40px;"><span style="font-family: arial, helvetica, sans-serif;" title="">🔗 <strong><a href="https://youtu.be/ok0lIrBOLvA?si=NuvJrAewSj5kiQyy" target="_blank" rel="noopener">Ver video de youTube</a></strong>.</span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Uso básico del compás paso a paso:</strong> Guía visual práctica de Flipp Math para asegurar la correcta apertura y trazado limpio de circunferencias y arcos.</span><br /></li>
+</ul>
+<p style="padding-left: 40px;"><span style="font-family: arial, helvetica, sans-serif;" title="">🔗 <strong><a href="https://youtu.be/JSQDUZ5UAvQ?si=4T54yrtrGx_vwF9z" target="_blank" rel="noopener">Ver video de youTube</a></strong>.</span></p>
+<hr />
+<h5><span style="color: #3598db; font-family: arial, helvetica, sans-serif;"><strong>Enlaces a tutoriales paso a paso sobre perpendiculares, mediatrices, bisectrices y el Teorema de Thales.</strong></span></h5>
+<hr />
+<p><span style="font-family: arial, helvetica, sans-serif;"><strong>Mediatriz de un Segmento</strong></span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Cómo hacer la Mediatriz de un Segmento paso a paso:</strong> Tutorial de Dibujo Técnico paso a paso que explica desde cero cómo trazar arcos con el compás para hallar el punto medio y el eje de simetría.</span></li>
+</ul>
+<p style="padding-left: 40px;"><span style="font-family: arial, helvetica, sans-serif;" title="">🔗 <a href="https://youtu.be/XLlVTTSuuCo?si=Ekom20KFipa1cclX" target="_blank" rel="noopener"><strong title="">Ver tutorial en YouTube</strong></a>.</span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Mediatriz de un Segmento (Píldora rápida): </strong>Vídeo sintético y visual de Los Profes De Ciencias perfecto para repasos rápidos en el aula.</span></li>
+</ul>
+<p style="padding-left: 40px;"><span style="font-family: arial, helvetica, sans-serif;" title="">🔗 <strong title=""><a href="https://youtu.be/QZGWVGDO4hc?si=B7ejLwT7y8qKtrVW" target="_blank" rel="noopener">Ver tutorial en YouTube</a></strong>.</span></p>
+<hr />
+<p><span style="font-family: arial, helvetica, sans-serif;"><strong>Bisectriz de un Ángulo</strong></span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Bisectriz de un Ángulo usando el Compás:</strong> Explicación de Dibujo Técnico paso a paso sobre cómo dividir un ángulo exactamente en dos partes iguales utilizando el compás.</span></li>
+</ul>
+<p style="padding-left: 40px;"><span style="font-family: arial, helvetica, sans-serif;" title="">🔗 <strong><a href="https://youtu.be/d3QjGacGYrk?si=HnZ8BKaN_hjiazHF" target="_blank" rel="noopener">Ver tutorial en YouTube</a></strong>.</span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Mediatriz y Bisectriz combinadas:</strong> Guía visual orientada a estudiantes de primer ciclo de Secundaria por Dibujo Técnico paso a paso.</span></li>
+</ul>
+<p style="padding-left: 40px;"><span style="font-family: arial, helvetica, sans-serif;" title="">🔗 <strong><a href="https://youtu.be/LKsylMVkBJc?si=dBUN0AnD9QABeMTk" target="_blank" rel="noopener">Ver tutorial en YouTube</a></strong>.</span></p>
+<hr />
+<p><span style="font-family: arial, helvetica, sans-serif;"><strong>Teorema de Tales / División de Segmentos</strong></span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;"><strong>División de un Segmento en partes iguales (Teorema de Tales): </strong>Tutorial clásico y muy detallado de Arturo Geometría sobre la aplicación práctica de este trazado.</span></li>
+</ul>
+<p style="padding-left: 40px;"><span style="font-family: arial, helvetica, sans-serif;" title="">🔗 <strong><a href="https://youtu.be/dqWRtHWI0-c?si=Jcjl4-hOZ1xnjGV7" target="_blank" rel="noopener">Ver tutorial en YouTube</a></strong>.</span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Dividir un Segmento con el Teorema de Tales paso a paso: </strong>Explicación de Dibujo Técnico paso a paso centrada en el uso de la recta auxiliar y paralelas.</span></li>
+</ul>
+<p style="padding-left: 40px;"><span style="font-family: arial, helvetica, sans-serif;" title="">🔗 <strong><a href="https://youtu.be/C99Hr84zXXA?si=i8BVwc0-1ke4U0AD" target="_blank" rel="noopener">Ver tutorial en YouTube</a></strong>.</span></p>
+<hr />
+<h5 style="text-align: left;"><span style="color: #3598db; font-family: arial, helvetica, sans-serif;"><strong>Recursos sobre técnicas pictóricas, del punto, la línea y el plano, así como esquemas compositivos aplicados al diseño del reloj.</strong></span></h5>
+<hr />
+<p><span style="font-family: arial, helvetica, sans-serif;"><strong>El Punto, la Línea y el Plano como Elementos Expresivos</strong></span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;"><strong>El punto y la línea en la creación artística:</strong> Tutorial práctico de Adriana Arunima que muestra cómo estructurar obras visuales empleando exclusivamente líneas y puntos para generar volumen y texturas.</span></li>
+</ul>
+<p style="padding-left: 40px;"><span style="font-family: arial, helvetica, sans-serif;">🔗 <strong><a href="https://youtu.be/X5rGFxkT7TY?si=tFBr0zDDo58wpMz0" target="_blank" title="" rel="noopener">Ver tutorial en YouTube</a></strong>.</span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Punto, línea y trazo básico:</strong> Explicación didáctica orientada al primer ciclo de secundaria para comprender la transición del plano geométrico a la expresión gráfica.</span></li>
+</ul>
+<p style="padding-left: 40px;"><span style="font-family: arial, helvetica, sans-serif;" title="">🔗<strong> </strong><a href="https://youtu.be/hhpZMjZvab4?si=wVxSOs49GwGsBS1W" target="_blank" rel="noopener"><strong>Ver tutorial en YouTube</strong></a>.</span></p>
+<hr />
+<p><span style="font-family: arial, helvetica, sans-serif;"><strong>Técnicas Pictóricas y Posibilidades Expresivas</strong></span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Fundamentos de técnicas de dibujo y pintura: </strong>Recursos orientados a introducir las técnicas pictóricas y sus posibilidades expresivas, valorando el uso del color, las texturas y el acabado final sobre el soporte de papel en el diseño del reloj.</span></li>
+</ul>
+<hr />
+<p><span style="font-family: arial, helvetica, sans-serif;"><strong>Esquemas Compositivos Aplicados al Diseño del Reloj</strong></span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Entiende la Composición Visual: </strong>Guía completa de Gartzia Artz sobre los fundamentos y recursos de la composición visual, el equilibrio, la proporción y el ritmo aplicados a la organización de formas en el plano.</span></li>
+</ul>
+<p style="padding-left: 40px;"><span style="font-family: arial, helvetica, sans-serif;" title="">🔗 <strong><a href="https://youtu.be/djdoB2YavIg?si=hTjKtkkGqWOUpIor" target="_blank" rel="noopener">Ver tutorial en YouTube</a></strong>.</span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Esquemas de composición para dibujo: </strong>Vídeo dinámico de XMirArt que detalla de forma visual esquemas compositivos simples y complejos aplicados al diseño estético.</span></li>
+</ul>
+<p style="padding-left: 40px;"><span style="font-family: arial, helvetica, sans-serif;" title="">🔗 <strong><a href="https://youtu.be/AK6i6V429x8?si=OIFkhfiFX_Wf1p4E" target="_blank" rel="noopener">Ver tutorial en YouTube</a></strong>.</span></p>
+<hr />
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: justify;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793103360904-qoh3ua375","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/s024uexd0y8kftqf0fao\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n</div>\n<hr />\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Con el objetivo de tutorizar al alumnado de 1.º de ESO en \"El Reloj de Guille\", he preparado un mural colaborativo en <span style=\"color: #34495e;\"><strong>Padlet</strong></span> que responde a sus necesidades reales y ritmos digitales. Estructuré este entorno siguiendo el ciclo completo de curación de contenidos: detectar sus necesidades, filtrar la información, organizarla de forma visual, abrir el espacio para compartir y, finalmente, evaluar el impacto de su aprendizaje.</span></p>\n<hr />\n<h3 style=\"text-align: justify;\"><span style=\"color: #34495e; font-family: arial, helvetica, sans-serif;\"><strong>Descripción y estructura del contenido</strong></span></h3>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">El tablero está organizado por columnas temáticas que guían al estudiante paso a paso a lo largo de las sesiones del proyecto:</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\" title=\"\">Para revisar el tablero, consulta este enlace de <strong>Padlet:</strong>  <strong><a href=\"https://padlet.com/mgommer619/el-reloj-de-guille-s024uexd0y8kftqf0fao\" target=\"_blank\" rel=\"noopener\">(se abre en nueva ventana)</a></strong>.</span></p>\n<hr />\n<h5 style=\"text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #3598db;\">Guías visuales y vídeos sobre el manejo correcto de los materiales de dibujo técnico</span></strong></span></h5>\n<hr />\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Manejo de escuadra y cartabón (Trazados y ángulos):</strong><strong></strong></span></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Trazado de perpendiculares y paralelas:</strong> Píldora visual rápida de Los Profes De Ciencias muy útil para el alumnado principiante.</span></li>\n</ul>\n<p style=\"padding-left: 40px;\"><span style=\"font-family: arial, helvetica, sans-serif;\" title=\"\">🔗 <strong><a href=\"https://youtu.be/98O5bS0EZPc?si=4tFaxAzV8aFGGF_X\" target=\"_blank\" rel=\"noopener\">Ver video de youTube</a></strong>.</span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Paralelas con escuadra y cartabón paso a paso: </strong>Vídeo corto de Dibujo Técnico paso a paso ideal para el alumnado de primeros cursos de Secundaria.<br /></span></li>\n</ul>\n<p style=\"padding-left: 40px;\"><span style=\"font-family: arial, helvetica, sans-serif;\" title=\"\">🔗 <strong><a href=\"https://youtu.be/simgHmsyEww?si=ZzqlTKXJ77AEj0cf\" target=\"_blank\" rel=\"noopener\">Ver video de youTube</a></strong>.</span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Ángulos básicos con escuadra y cartabón (30°, 45°, 60° y 90°):</strong> Un excelente vídeo explicativo de Arturo Pinilla que muestra la disposición correcta de ambas herramientas sobre el papel.</span></li>\n</ul>\n<p style=\"padding-left: 40px;\"><span style=\"font-family: arial, helvetica, sans-serif;\" title=\"\">🔗 <strong><a href=\"https://youtu.be/Y9eNCkvv4F4?si=77ZgpysJTdyUTm1Y\" target=\"_blank\" rel=\"noopener\">Ver video de youTube</a></strong>.</span></p>\n<hr />\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Manejo Correcto del Compás</strong></span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Consejos prácticos para el uso del compás: </strong>Tutorial detallado del canal Educación Plástica EPVA enfocado en la postura de los dedos, la presión adecuada sobre el papel y la orientación de la mina para evitar imprecisiones.</span></li>\n</ul>\n<p style=\"padding-left: 40px;\"><span style=\"font-family: arial, helvetica, sans-serif;\" title=\"\">🔗 <strong><a href=\"https://youtu.be/ok0lIrBOLvA?si=NuvJrAewSj5kiQyy\" target=\"_blank\" rel=\"noopener\">Ver video de youTube</a></strong>.</span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Uso básico del compás paso a paso:</strong> Guía visual práctica de Flipp Math para asegurar la correcta apertura y trazado limpio de circunferencias y arcos.</span><br /></li>\n</ul>\n<p style=\"padding-left: 40px;\"><span style=\"font-family: arial, helvetica, sans-serif;\" title=\"\">🔗 <strong><a href=\"https://youtu.be/JSQDUZ5UAvQ?si=4T54yrtrGx_vwF9z\" target=\"_blank\" rel=\"noopener\">Ver video de youTube</a></strong>.</span></p>\n<hr />\n<h5><span style=\"color: #3598db; font-family: arial, helvetica, sans-serif;\"><strong>Enlaces a tutoriales paso a paso sobre perpendiculares, mediatrices, bisectrices y el Teorema de Thales.</strong></span></h5>\n<hr />\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Mediatriz de un Segmento</strong></span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Cómo hacer la Mediatriz de un Segmento paso a paso:</strong> Tutorial de Dibujo Técnico paso a paso que explica desde cero cómo trazar arcos con el compás para hallar el punto medio y el eje de simetría.</span></li>\n</ul>\n<p style=\"padding-left: 40px;\"><span style=\"font-family: arial, helvetica, sans-serif;\" title=\"\">🔗 <a href=\"https://youtu.be/XLlVTTSuuCo?si=Ekom20KFipa1cclX\" target=\"_blank\" rel=\"noopener\"><strong title=\"\">Ver tutorial en YouTube</strong></a>.</span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Mediatriz de un Segmento (Píldora rápida): </strong>Vídeo sintético y visual de Los Profes De Ciencias perfecto para repasos rápidos en el aula.</span></li>\n</ul>\n<p style=\"padding-left: 40px;\"><span style=\"font-family: arial, helvetica, sans-serif;\" title=\"\">🔗 <strong title=\"\"><a href=\"https://youtu.be/QZGWVGDO4hc?si=B7ejLwT7y8qKtrVW\" target=\"_blank\" rel=\"noopener\">Ver tutorial en YouTube</a></strong>.</span></p>\n<hr />\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Bisectriz de un Ángulo</strong></span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Bisectriz de un Ángulo usando el Compás:</strong> Explicación de Dibujo Técnico paso a paso sobre cómo dividir un ángulo exactamente en dos partes iguales utilizando el compás.</span></li>\n</ul>\n<p style=\"padding-left: 40px;\"><span style=\"font-family: arial, helvetica, sans-serif;\" title=\"\">🔗 <strong><a href=\"https://youtu.be/d3QjGacGYrk?si=HnZ8BKaN_hjiazHF\" target=\"_blank\" rel=\"noopener\">Ver tutorial en YouTube</a></strong>.</span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Mediatriz y Bisectriz combinadas:</strong> Guía visual orientada a estudiantes de primer ciclo de Secundaria por Dibujo Técnico paso a paso.</span></li>\n</ul>\n<p style=\"padding-left: 40px;\"><span style=\"font-family: arial, helvetica, sans-serif;\" title=\"\">🔗 <strong><a href=\"https://youtu.be/LKsylMVkBJc?si=dBUN0AnD9QABeMTk\" target=\"_blank\" rel=\"noopener\">Ver tutorial en YouTube</a></strong>.</span></p>\n<hr />\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Teorema de Tales / División de Segmentos</strong></span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>División de un Segmento en partes iguales (Teorema de Tales): </strong>Tutorial clásico y muy detallado de Arturo Geometría sobre la aplicación práctica de este trazado.</span></li>\n</ul>\n<p style=\"padding-left: 40px;\"><span style=\"font-family: arial, helvetica, sans-serif;\" title=\"\">🔗 <strong><a href=\"https://youtu.be/dqWRtHWI0-c?si=Jcjl4-hOZ1xnjGV7\" target=\"_blank\" rel=\"noopener\">Ver tutorial en YouTube</a></strong>.</span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Dividir un Segmento con el Teorema de Tales paso a paso: </strong>Explicación de Dibujo Técnico paso a paso centrada en el uso de la recta auxiliar y paralelas.</span></li>\n</ul>\n<p style=\"padding-left: 40px;\"><span style=\"font-family: arial, helvetica, sans-serif;\" title=\"\">🔗 <strong><a href=\"https://youtu.be/C99Hr84zXXA?si=i8BVwc0-1ke4U0AD\" target=\"_blank\" rel=\"noopener\">Ver tutorial en YouTube</a></strong>.</span></p>\n<hr />\n<h5 style=\"text-align: left;\"><span style=\"color: #3598db; font-family: arial, helvetica, sans-serif;\"><strong>Recursos sobre técnicas pictóricas, del punto, la línea y el plano, así como esquemas compositivos aplicados al diseño del reloj.</strong></span></h5>\n<hr />\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>El Punto, la Línea y el Plano como Elementos Expresivos</strong></span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>El punto y la línea en la creación artística:</strong> Tutorial práctico de Adriana Arunima que muestra cómo estructurar obras visuales empleando exclusivamente líneas y puntos para generar volumen y texturas.</span></li>\n</ul>\n<p style=\"padding-left: 40px;\"><span style=\"font-family: arial, helvetica, sans-serif;\">🔗 <strong><a href=\"https://youtu.be/X5rGFxkT7TY?si=tFBr0zDDo58wpMz0\" target=\"_blank\" title=\"\" rel=\"noopener\">Ver tutorial en YouTube</a></strong>.</span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Punto, línea y trazo básico:</strong> Explicación didáctica orientada al primer ciclo de secundaria para comprender la transición del plano geométrico a la expresión gráfica.</span></li>\n</ul>\n<p style=\"padding-left: 40px;\"><span style=\"font-family: arial, helvetica, sans-serif;\" title=\"\">🔗<strong> </strong><a href=\"https://youtu.be/hhpZMjZvab4?si=wVxSOs49GwGsBS1W\" target=\"_blank\" rel=\"noopener\"><strong>Ver tutorial en YouTube</strong></a>.</span></p>\n<hr />\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Técnicas Pictóricas y Posibilidades Expresivas</strong></span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Fundamentos de técnicas de dibujo y pintura: </strong>Recursos orientados a introducir las técnicas pictóricas y sus posibilidades expresivas, valorando el uso del color, las texturas y el acabado final sobre el soporte de papel en el diseño del reloj.</span></li>\n</ul>\n<hr />\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Esquemas Compositivos Aplicados al Diseño del Reloj</strong></span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Entiende la Composición Visual: </strong>Guía completa de Gartzia Artz sobre los fundamentos y recursos de la composición visual, el equilibrio, la proporción y el ritmo aplicados a la organización de formas en el plano.</span></li>\n</ul>\n<p style=\"padding-left: 40px;\"><span style=\"font-family: arial, helvetica, sans-serif;\" title=\"\">🔗 <strong><a href=\"https://youtu.be/djdoB2YavIg?si=hTjKtkkGqWOUpIor\" target=\"_blank\" rel=\"noopener\">Ver tutorial en YouTube</a></strong>.</span></p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Esquemas de composición para dibujo: </strong>Vídeo dinámico de XMirArt que detalla de forma visual esquemas compositivos simples y complejos aplicados al diseño estético.</span></li>\n</ul>\n<p style=\"padding-left: 40px;\"><span style=\"font-family: arial, helvetica, sans-serif;\" title=\"\">🔗 <strong><a href=\"https://youtu.be/AK6i6V429x8?si=OIFkhfiFX_Wf1p4E\" target=\"_blank\" rel=\"noopener\">Ver tutorial en YouTube</a></strong>.</span></p>\n<hr />\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: justify;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvqktw2f-2jzvmv5zf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4.- Plan de aprendizaje del proyecto</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.- Plan de aprendizaje del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramienta de curación de contenidos destinada al profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.- Plan de aprendizaje del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvqktw2f-2jzvmv5zf</odePageId>
+      <odeBlockId>block-mvqn02ds-ttc7y6l5j</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvqktw2f-2jzvmv5zf</odePageId>
+          <odeBlockId>block-mvqn02ds-ttc7y6l5j</odeBlockId>
+          <odeIdeviceId>idevice-1793102617359-mrwbq1ym5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHaQepVqzs/VkSEcf7-gluoL108UHYD7Q/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHaQepVqzs/VkSEcf7-gluoL108UHYD7Q/view?utm_content=DAHaQepVqzs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">4.- Plan de aprendizaje del proyecto</a> de Miguel Ángel Gómez Mercado</p>
+<hr />
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; color: #34495e;"><strong title="">Para revisar el plan de aprendizaje del proyecto:</strong></span></p>
+<ul>
+<li><strong><span style="font-family: arial, helvetica, sans-serif; color: #34495e;">Consulta el mapa mental en MindMeister:🔗 </span><span style="font-family: arial, helvetica, sans-serif;"><a href="https://www.mindmeister.com/app/map/4111352293?t=9yjRt3oIsz"></a><a href="https://www.mindmeister.com/app/map/4111352293?t=9yjRt3oIsz">(se abre en nueva ventana)</a>.</span></strong><strong><span style="font-family: arial, helvetica, sans-serif;"></span></strong></li>
+<li><strong><span style="font-family: arial, helvetica, sans-serif;" title=""><span style="color: #34495e;">Consulta la infografia generada con Canva:</span> 🔗 <a href="https://drive.google.com/file/d/1io7a55TpqSYQHndpqjdKMh5kQk6TrpTb/view?usp=drive_link" target="_blank" rel="noopener">(se abre en nueva ventana)</a>.</span></strong></li>
+</ul>
+<hr />
+<h3 style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; color: #34495e;"><strong>1. Descripción</strong></span></h3>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Guía visual para el alumnado con la organización temporal del proyecto, los objetivos, las tareas, los conceptos geométricos, los recursos, la metodología y los instrumentos de evaluación.</span></p>
+<hr />
+<h3 style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; color: #34495e;"><strong>2. Producto final</strong></span></h3>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Reproducción de un diseño de reloj geométrico aplicando conceptos de geometría y técnicas pictóricas.</span><br /><span style="font-family: arial, helvetica, sans-serif;">El alumnado elaborará un reloj a partir de formas geométricas, líneas, ángulos, circunferencias y recursos artísticos. El producto final deberá mostrar precisión en el trazado, creatividad en la composición y aplicación de las técnicas aprendidas.</span></p>
+<hr />
+<h3 style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; color: #34495e;"><strong>3. Objetivo general</strong></span></h3>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Introducir al alumnado en el lenguaje geométrico y favorecer el desarrollo del pensamiento lógico, la precisión técnica y la comprensión visual mediante la elaboración de un reloj geométrico.</span></p>
+<hr />
+<h3 style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; color: #34495e;"><strong>4. Objetivos específicos</strong></span></h3>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Reconocer y utilizar correctamente los materiales de dibujo técnico.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Trazar líneas paralelas y perpendiculares.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Construir mediatrices y bisectrices.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Identificar y representar distintos tipos de ángulos.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Aplicar el teorema de Tales en ejercicios gráficos.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Diferenciar circunferencia, círculo y arco.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Utilizar instrumentos de trazado geométrico con precisión.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Experimentar con técnicas de dibujo y pintura.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Organizar un proceso de trabajo por fases.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Aplicar los conceptos aprendidos en la creación de un reloj geométrico.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Desarrollar la creatividad, la autonomía y la capacidad de revisión.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Exponer y explicar el producto final.</span></li>
+</ul>
+<hr />
+<h3 style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; color: #34495e;"><strong>5. Conceptos clave</strong></span></h3>
+<hr />
+<h5 style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; color: #3598db;"><strong>Geometría</strong></span></h5>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Mediatriz.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Bisectriz.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Ángulos.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Paralelismo.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Perpendicularidad.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Teorema de Tales.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Circunferencia.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Círculo.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;"><span style="font-family: arial, helvetica, sans-serif;">Arco.</span></span></li>
+</ul>
+<hr />
+<p><strong style="color: #3598db; font-family: arial, helvetica, sans-serif; font-size: 1.25rem;">Técnicas artísticas</strong></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Técnicas de dibujo.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Técnicas de pintura.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Composición geométrica.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Uso del color.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Aplicación de texturas.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Acabado y presentación del trabajo.</span></li>
+</ul>
+<hr />
+<h3 style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; color: #34495e;"><strong>6. Tareas y actividades</strong></span></h3>
+<hr />
+<ul style="text-align: justify;"></ul>
+<h5 style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; color: #3598db;"><strong>Ejercicios previos</strong></span></h5>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Lámina de paralelas y perpendiculares</strong></span><br /><span style="font-family: arial, helvetica, sans-serif;">Trazado de líneas paralelas y perpendiculares utilizando regla, escuadra y cartabón.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Lámina de mediatrices</strong></span><br /><span style="font-family: arial, helvetica, sans-serif;">Construcción de mediatrices a partir de segmentos dados.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Lámina de bisectrices</strong></span><br /><span style="font-family: arial, helvetica, sans-serif;">División de ángulos en dos partes iguales.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Lámina del teorema de Tales</strong></span><br /><span style="font-family: arial, helvetica, sans-serif;">Aplicación gráfica del teorema de Tales en ejercicios de proporcionalidad.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Lámina de ángulos</strong></span><br /><span style="font-family: arial, helvetica, sans-serif;">Identificación, clasificación y trazado de ángulos.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Lámina de circunferencias y arcos</strong></span><br /><span style="font-family: arial, helvetica, sans-serif;"><span style="font-family: arial, helvetica, sans-serif;">Uso del compás para crear circunferencias, círculos y arcos.</span></span></li>
+</ul>
+<hr />
+<p><br /></p>
+<h5 style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; color: #3598db;"><strong>Tarea final</strong></span></h5>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Reproducir un reloj geométrico aplicando las técnicas y los conceptos aprendidos.</strong></span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">El alumnado deberá:</span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Analizar el diseño de referencia.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Identificar las formas geométricas que lo componen.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Planificar el orden de construcción.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Realizar los trazados técnicos.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Aplicar color y técnicas pictóricas.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Revisar y corregir el trabajo.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Presentar el resultado final al grupo.</span></li>
+</ul>
+<hr />
+<h3 style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><span style="color: #34495e;"><strong>7. Organización temporal</strong></span></span></h3>
+<hr />
+<h5 style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><span style="color: #3598db;"><strong>Sesiones 1-4: Fundamentos de dibujo técnico</strong></span><strong></strong><strong></strong></span></h5>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Sesión 1: Manejo de materiales de dibujo técnico</strong></span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Presentación de los instrumentos.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Normas de uso y conservación.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Ejercicios de precisión y control del trazo.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Sesión 2: Trazado de rectas paralelas</strong></span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Concepto de paralelismo.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Uso de regla, escuadra y cartabón.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Realización de una lámina de líneas paralelas.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Sesión 3: Trazado de rectas perpendiculares</strong></span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Concepto de perpendicularidad.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Construcción de ángulos rectos.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Realización de ejercicios gráficos.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Sesión 4: Paralelas y perpendiculares</strong></span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Combinación de ambos trazados.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Creación de composiciones geométricas sencillas.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Revisión de la precisión técnica.</span></li>
+</ul>
+<hr />
+<h5 style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; color: #3598db;"><strong>Sesiones 5-7: Conceptos geométricos avanzados</strong></span></h5>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Sesión 5: Mediatrices y bisectrices</strong></span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Construcción de mediatrices.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Construcción de bisectrices.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Aplicación en formas geométricas.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Sesión 6: Teorema de Tales</strong></span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Explicación visual del teorema.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Ejercicios de división proporcional.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Aplicación gráfica en una lámina.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Sesión 7: Circunferencia y ángulos</strong></span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Diferencia entre circunferencia, círculo y arco.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Trazado con compás.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Clasificación y representación de ángulos.</span></li>
+</ul>
+<hr />
+<h5 style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; color: #3598db;"><strong>Sesiones 8-9: Láminas artísticas</strong></span></h5>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Sesión 8: Lámina artística de circunferencias y ángulos</strong></span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Creación de una composición basada en círculos y ángulos.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Aplicación de técnicas de dibujo.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Organización del espacio y equilibrio visual.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Sesión 9: Lámina artística de circunferencias y ángulos</strong></span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Aplicación de técnicas pictóricas.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Experimentación con color, textura y contraste.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Revisión y mejora de la composición.</span><br /></li>
+</ul>
+<hr />
+<h5 style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><span style="color: #3598db;"><strong>Sesiones 10-14: Producto final</strong></span><strong></strong></span></h5>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>"El reloj de Guille"</strong></span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Sesión 10: Inicio de la actividad</strong></span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Presentación del reloj geométrico.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Análisis de sus formas, líneas y proporciones.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Elaboración de un boceto inicial.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Selección de materiales y colores.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Sesiones 11-13: Desarrollo</strong></span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Trazado de la estructura geométrica.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Construcción de circunferencias y divisiones.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Incorporación de números, agujas y elementos decorativos.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Aplicación de técnicas pictóricas.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Revisión del proceso y corrección de errores.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Sesión 14: Finalización y exposición</strong></span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Terminación del reloj geométrico.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Preparación de la presentación.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Exposición de los trabajos.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Autoevaluación y reflexión final.</span></li>
+</ul>
+<hr />
+<h3 style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; color: #34495e;"><strong>8. Metodología</strong></span></h3>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Se emplea una metodología activa, práctica y visual basada en la experimentación, la resolución de problemas y la creación artística.</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">El alumnado aprenderá mediante:</span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Explicaciones breves y demostraciones visuales.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Ejercicios guiados.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Práctica individual.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Trabajo cooperativo.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Revisión continua.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Aplicación de los aprendizajes en un proyecto final.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Exposición y reflexión sobre el proceso.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">La secuencia de trabajo será:</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; color: #34495e;"><strong>Observar → comprender → practicar → aplicar → revisar → crear → presentar.</strong></span></p>
+<hr />
+<h3 style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; color: #34495e;"><strong>9. Atención a la diversidad y principios DUA</strong></span></h3>
+<hr />
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Múltiples formas de representación</strong></span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Explicaciones orales y visuales.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Ejemplos paso a paso.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Esquemas y láminas de apoyo.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Demostraciones del uso de los instrumentos.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Instrucciones escritas y visuales.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Modelos de referencia.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Múltiples formas de acción y expresión</strong></span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Realización de ejercicios con diferentes niveles de dificultad.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Posibilidad de utilizar distintos materiales.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Elección de colores y técnicas pictóricas.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Uso de plantillas, guías o cuadrículas cuando sea necesario.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Presentación oral, visual o escrita del proceso.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Trabajo individual o cooperativo.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Múltiples formas de implicación</strong></span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Relación del proyecto con un producto cercano y significativo: un reloj.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Elección de elementos decorativos.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Valoración del proceso creativo.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Metas breves y alcanzables.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Feedback continuo.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Actividades de colaboración y ayuda entre iguales.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Medidas ordinarias de atención</strong></span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Adaptación del ritmo de trabajo.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Fragmentación de las tareas complejas.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Apoyo visual para las instrucciones.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Repetición de demostraciones.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Parejas o grupos de apoyo.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Tiempo adicional cuando sea necesario.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Evaluación del progreso individual.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Refuerzo positivo y revisión guiada.</span></li>
+</ul>
+<hr />
+<h3 style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; color: #34495e;"><strong>10. Recursos y herramientas</strong></span></h3>
+<hr />
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Materiales de dibujo técnico</strong></span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Lápiz.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Goma.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Regla.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Escuadra.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Cartabón.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Compás.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Transportador de ángulos.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Papel y cartulina.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Plantillas geométricas.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Materiales para técnicas pictóricas</strong></span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Lápices de colores.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Rotuladores.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Pinturas.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Pinceles.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Paleta.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Recipientes para agua.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;"><strong>Materiales para texturas.</strong></span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Espacios</strong></span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Aula de dibujo.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Espacio de exposición.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Zona de trabajo colaborativo.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Recursos metodológicos</strong></span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Láminas de ejercicios.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Fichas de apoyo.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Reloj geométrico de referencia.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Pizarra o proyector.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Ejemplos de trazado.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Rúbrica de evaluación.</span></li>
+</ul>
+<hr />
+<h3 style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; color: #34495e;"><strong>11. Evaluación</strong></span></h3>
+<hr />
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Instrumentos</strong></span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Pruebas prácticas durante el proceso.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Escala de estimación mediante observación continua.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Rúbrica para el producto final.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Rúbrica para la exposición.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Autoevaluación.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Registro anecdótico.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Preguntas abiertas de reflexión final.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Revisión de las láminas y del cuaderno de trabajo.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Criterios de evaluación</strong></span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Se valorará si el alumnado:</span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Utiliza correctamente los instrumentos de dibujo.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Realiza trazados paralelos y perpendiculares con precisión.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Construye mediatrices y bisectrices.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Aplica correctamente el teorema de Tales.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Reconoce y utiliza ángulos, circunferencias, círculos y arcos.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Sigue un proceso ordenado de trabajo.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Aplica técnicas de dibujo y pintura.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Integra los conceptos geométricos en el reloj.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Presenta un trabajo limpio, creativo y cuidado.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Participa activamente en las actividades.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Explica las decisiones tomadas durante el proceso.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Reflexiona sobre sus logros y dificultades.</span><br /></li>
+</ul>
+<hr />
+<h3 style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; color: #34495e;"><strong>12. Reflexión final</strong></span></h3>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Al finalizar el proyecto, el alumnado responderá a preguntas como:</span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">¿Qué concepto geométrico me ha resultado más fácil?</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">¿Qué trazado me ha costado más?</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">¿Qué instrumento he aprendido a utilizar mejor?</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">¿Qué técnica artística he aplicado?</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">¿Cómo he resuelto las dificultades?</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">¿Qué cambiaría de mi reloj geométrico?</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">¿Qué he aprendido durante el proyecto?</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">¿Estoy satisfecho o satisfecha con el resultado final?</span><br /></li>
+</ul>
+<hr />
+<p style="text-align: justify;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793102617359-mrwbq1ym5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHaQepVqzs/VkSEcf7-gluoL108UHYD7Q/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHaQepVqzs/VkSEcf7-gluoL108UHYD7Q/view?utm_content=DAHaQepVqzs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">4.- Plan de aprendizaje del proyecto</a> de Miguel Ángel Gómez Mercado</p>\n<hr />\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #34495e;\"><strong title=\"\">Para revisar el plan de aprendizaje del proyecto:</strong></span></p>\n<ul>\n<li><strong><span style=\"font-family: arial, helvetica, sans-serif; color: #34495e;\">Consulta el mapa mental en MindMeister:🔗 </span><span style=\"font-family: arial, helvetica, sans-serif;\"><a href=\"https://www.mindmeister.com/app/map/4111352293?t=9yjRt3oIsz\"></a><a href=\"https://www.mindmeister.com/app/map/4111352293?t=9yjRt3oIsz\">(se abre en nueva ventana)</a>.</span></strong><strong><span style=\"font-family: arial, helvetica, sans-serif;\"></span></strong></li>\n<li><strong><span style=\"font-family: arial, helvetica, sans-serif;\" title=\"\"><span style=\"color: #34495e;\">Consulta la infografia generada con Canva:</span> 🔗 <a href=\"https://drive.google.com/file/d/1io7a55TpqSYQHndpqjdKMh5kQk6TrpTb/view?usp=drive_link\" target=\"_blank\" rel=\"noopener\">(se abre en nueva ventana)</a>.</span></strong></li>\n</ul>\n<hr />\n<h3 style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #34495e;\"><strong>1. Descripción</strong></span></h3>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Guía visual para el alumnado con la organización temporal del proyecto, los objetivos, las tareas, los conceptos geométricos, los recursos, la metodología y los instrumentos de evaluación.</span></p>\n<hr />\n<h3 style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #34495e;\"><strong>2. Producto final</strong></span></h3>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Reproducción de un diseño de reloj geométrico aplicando conceptos de geometría y técnicas pictóricas.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">El alumnado elaborará un reloj a partir de formas geométricas, líneas, ángulos, circunferencias y recursos artísticos. El producto final deberá mostrar precisión en el trazado, creatividad en la composición y aplicación de las técnicas aprendidas.</span></p>\n<hr />\n<h3 style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #34495e;\"><strong>3. Objetivo general</strong></span></h3>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Introducir al alumnado en el lenguaje geométrico y favorecer el desarrollo del pensamiento lógico, la precisión técnica y la comprensión visual mediante la elaboración de un reloj geométrico.</span></p>\n<hr />\n<h3 style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #34495e;\"><strong>4. Objetivos específicos</strong></span></h3>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Reconocer y utilizar correctamente los materiales de dibujo técnico.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Trazar líneas paralelas y perpendiculares.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Construir mediatrices y bisectrices.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Identificar y representar distintos tipos de ángulos.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Aplicar el teorema de Tales en ejercicios gráficos.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Diferenciar circunferencia, círculo y arco.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Utilizar instrumentos de trazado geométrico con precisión.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Experimentar con técnicas de dibujo y pintura.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Organizar un proceso de trabajo por fases.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Aplicar los conceptos aprendidos en la creación de un reloj geométrico.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Desarrollar la creatividad, la autonomía y la capacidad de revisión.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Exponer y explicar el producto final.</span></li>\n</ul>\n<hr />\n<h3 style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #34495e;\"><strong>5. Conceptos clave</strong></span></h3>\n<hr />\n<h5 style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #3598db;\"><strong>Geometría</strong></span></h5>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Mediatriz.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Bisectriz.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Ángulos.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Paralelismo.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Perpendicularidad.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Teorema de Tales.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Circunferencia.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Círculo.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Arco.</span></span></li>\n</ul>\n<hr />\n<p><strong style=\"color: #3598db; font-family: arial, helvetica, sans-serif; font-size: 1.25rem;\">Técnicas artísticas</strong></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Técnicas de dibujo.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Técnicas de pintura.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Composición geométrica.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Uso del color.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Aplicación de texturas.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Acabado y presentación del trabajo.</span></li>\n</ul>\n<hr />\n<h3 style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #34495e;\"><strong>6. Tareas y actividades</strong></span></h3>\n<hr />\n<ul style=\"text-align: justify;\"></ul>\n<h5 style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #3598db;\"><strong>Ejercicios previos</strong></span></h5>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Lámina de paralelas y perpendiculares</strong></span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Trazado de líneas paralelas y perpendiculares utilizando regla, escuadra y cartabón.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Lámina de mediatrices</strong></span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Construcción de mediatrices a partir de segmentos dados.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Lámina de bisectrices</strong></span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">División de ángulos en dos partes iguales.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Lámina del teorema de Tales</strong></span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Aplicación gráfica del teorema de Tales en ejercicios de proporcionalidad.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Lámina de ángulos</strong></span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Identificación, clasificación y trazado de ángulos.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Lámina de circunferencias y arcos</strong></span><br /><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Uso del compás para crear circunferencias, círculos y arcos.</span></span></li>\n</ul>\n<hr />\n<p><br /></p>\n<h5 style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #3598db;\"><strong>Tarea final</strong></span></h5>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Reproducir un reloj geométrico aplicando las técnicas y los conceptos aprendidos.</strong></span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">El alumnado deberá:</span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Analizar el diseño de referencia.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Identificar las formas geométricas que lo componen.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Planificar el orden de construcción.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Realizar los trazados técnicos.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Aplicar color y técnicas pictóricas.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Revisar y corregir el trabajo.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Presentar el resultado final al grupo.</span></li>\n</ul>\n<hr />\n<h3 style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #34495e;\"><strong>7. Organización temporal</strong></span></span></h3>\n<hr />\n<h5 style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #3598db;\"><strong>Sesiones 1-4: Fundamentos de dibujo técnico</strong></span><strong></strong><strong></strong></span></h5>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Sesión 1: Manejo de materiales de dibujo técnico</strong></span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Presentación de los instrumentos.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Normas de uso y conservación.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Ejercicios de precisión y control del trazo.</span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Sesión 2: Trazado de rectas paralelas</strong></span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Concepto de paralelismo.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Uso de regla, escuadra y cartabón.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Realización de una lámina de líneas paralelas.</span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Sesión 3: Trazado de rectas perpendiculares</strong></span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Concepto de perpendicularidad.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Construcción de ángulos rectos.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Realización de ejercicios gráficos.</span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Sesión 4: Paralelas y perpendiculares</strong></span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Combinación de ambos trazados.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Creación de composiciones geométricas sencillas.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Revisión de la precisión técnica.</span></li>\n</ul>\n<hr />\n<h5 style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #3598db;\"><strong>Sesiones 5-7: Conceptos geométricos avanzados</strong></span></h5>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Sesión 5: Mediatrices y bisectrices</strong></span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Construcción de mediatrices.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Construcción de bisectrices.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Aplicación en formas geométricas.</span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Sesión 6: Teorema de Tales</strong></span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Explicación visual del teorema.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Ejercicios de división proporcional.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Aplicación gráfica en una lámina.</span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Sesión 7: Circunferencia y ángulos</strong></span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Diferencia entre circunferencia, círculo y arco.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Trazado con compás.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Clasificación y representación de ángulos.</span></li>\n</ul>\n<hr />\n<h5 style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #3598db;\"><strong>Sesiones 8-9: Láminas artísticas</strong></span></h5>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Sesión 8: Lámina artística de circunferencias y ángulos</strong></span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Creación de una composición basada en círculos y ángulos.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Aplicación de técnicas de dibujo.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Organización del espacio y equilibrio visual.</span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Sesión 9: Lámina artística de circunferencias y ángulos</strong></span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Aplicación de técnicas pictóricas.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Experimentación con color, textura y contraste.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Revisión y mejora de la composición.</span><br /></li>\n</ul>\n<hr />\n<h5 style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #3598db;\"><strong>Sesiones 10-14: Producto final</strong></span><strong></strong></span></h5>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>\"El reloj de Guille\"</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Sesión 10: Inicio de la actividad</strong></span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Presentación del reloj geométrico.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Análisis de sus formas, líneas y proporciones.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Elaboración de un boceto inicial.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Selección de materiales y colores.</span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Sesiones 11-13: Desarrollo</strong></span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Trazado de la estructura geométrica.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Construcción de circunferencias y divisiones.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Incorporación de números, agujas y elementos decorativos.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Aplicación de técnicas pictóricas.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Revisión del proceso y corrección de errores.</span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Sesión 14: Finalización y exposición</strong></span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Terminación del reloj geométrico.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Preparación de la presentación.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Exposición de los trabajos.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Autoevaluación y reflexión final.</span></li>\n</ul>\n<hr />\n<h3 style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #34495e;\"><strong>8. Metodología</strong></span></h3>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Se emplea una metodología activa, práctica y visual basada en la experimentación, la resolución de problemas y la creación artística.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">El alumnado aprenderá mediante:</span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Explicaciones breves y demostraciones visuales.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Ejercicios guiados.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Práctica individual.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Trabajo cooperativo.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Revisión continua.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Aplicación de los aprendizajes en un proyecto final.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Exposición y reflexión sobre el proceso.</span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">La secuencia de trabajo será:</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #34495e;\"><strong>Observar → comprender → practicar → aplicar → revisar → crear → presentar.</strong></span></p>\n<hr />\n<h3 style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #34495e;\"><strong>9. Atención a la diversidad y principios DUA</strong></span></h3>\n<hr />\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Múltiples formas de representación</strong></span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Explicaciones orales y visuales.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Ejemplos paso a paso.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Esquemas y láminas de apoyo.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Demostraciones del uso de los instrumentos.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Instrucciones escritas y visuales.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Modelos de referencia.</span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Múltiples formas de acción y expresión</strong></span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Realización de ejercicios con diferentes niveles de dificultad.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Posibilidad de utilizar distintos materiales.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Elección de colores y técnicas pictóricas.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Uso de plantillas, guías o cuadrículas cuando sea necesario.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Presentación oral, visual o escrita del proceso.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Trabajo individual o cooperativo.</span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Múltiples formas de implicación</strong></span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Relación del proyecto con un producto cercano y significativo: un reloj.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Elección de elementos decorativos.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Valoración del proceso creativo.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Metas breves y alcanzables.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Feedback continuo.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Actividades de colaboración y ayuda entre iguales.</span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Medidas ordinarias de atención</strong></span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Adaptación del ritmo de trabajo.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Fragmentación de las tareas complejas.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Apoyo visual para las instrucciones.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Repetición de demostraciones.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Parejas o grupos de apoyo.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Tiempo adicional cuando sea necesario.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Evaluación del progreso individual.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Refuerzo positivo y revisión guiada.</span></li>\n</ul>\n<hr />\n<h3 style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #34495e;\"><strong>10. Recursos y herramientas</strong></span></h3>\n<hr />\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Materiales de dibujo técnico</strong></span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Lápiz.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Goma.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Regla.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Escuadra.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Cartabón.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Compás.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Transportador de ángulos.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Papel y cartulina.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Plantillas geométricas.</span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Materiales para técnicas pictóricas</strong></span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Lápices de colores.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Rotuladores.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Pinturas.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Pinceles.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Paleta.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Recipientes para agua.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Materiales para texturas.</strong></span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Espacios</strong></span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Aula de dibujo.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Espacio de exposición.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Zona de trabajo colaborativo.</span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Recursos metodológicos</strong></span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Láminas de ejercicios.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Fichas de apoyo.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Reloj geométrico de referencia.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Pizarra o proyector.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Ejemplos de trazado.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Rúbrica de evaluación.</span></li>\n</ul>\n<hr />\n<h3 style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #34495e;\"><strong>11. Evaluación</strong></span></h3>\n<hr />\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Instrumentos</strong></span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Pruebas prácticas durante el proceso.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Escala de estimación mediante observación continua.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Rúbrica para el producto final.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Rúbrica para la exposición.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Autoevaluación.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Registro anecdótico.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Preguntas abiertas de reflexión final.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Revisión de las láminas y del cuaderno de trabajo.</span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Criterios de evaluación</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Se valorará si el alumnado:</span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Utiliza correctamente los instrumentos de dibujo.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Realiza trazados paralelos y perpendiculares con precisión.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Construye mediatrices y bisectrices.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Aplica correctamente el teorema de Tales.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Reconoce y utiliza ángulos, circunferencias, círculos y arcos.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Sigue un proceso ordenado de trabajo.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Aplica técnicas de dibujo y pintura.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Integra los conceptos geométricos en el reloj.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Presenta un trabajo limpio, creativo y cuidado.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Participa activamente en las actividades.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Explica las decisiones tomadas durante el proceso.</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Reflexiona sobre sus logros y dificultades.</span><br /></li>\n</ul>\n<hr />\n<h3 style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #34495e;\"><strong>12. Reflexión final</strong></span></h3>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Al finalizar el proyecto, el alumnado responderá a preguntas como:</span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">¿Qué concepto geométrico me ha resultado más fácil?</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">¿Qué trazado me ha costado más?</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">¿Qué instrumento he aprendido a utilizar mejor?</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">¿Qué técnica artística he aplicado?</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">¿Cómo he resuelto las dificultades?</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">¿Qué cambiaría de mi reloj geométrico?</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">¿Qué he aprendido durante el proyecto?</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">¿Estoy satisfecho o satisfecha con el resultado final?</span><br /></li>\n</ul>\n<hr />\n<p style=\"text-align: justify;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mw9a61a8-24imltl2m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5.- Criterios de evaluación asociados a las actividades</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.- Criterios de evaluación asociados a las actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.- Criterios de evaluación asociados a las actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5.- Criterios de evaluación asociados a las actividades</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mw9a61a8-24imltl2m</odePageId>
+      <odeBlockId>block-mw9a6bn4-4t0ajxzyx</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw9a61a8-24imltl2m</odePageId>
+          <odeBlockId>block-mw9a6bn4-4t0ajxzyx</odeBlockId>
+          <odeIdeviceId>idevice-1794229931630-dupewx4nt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHaXyuwkSg/iMjsU66FvVUEU655H5--Sg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHaXyuwkSg/iMjsU66FvVUEU655H5--Sg/view?utm_content=DAHaXyuwkSg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">5.- Criterios de evaluación asociados a las actividades</a> de Miguel Ángel Gómez Mercado</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794229931630-dupewx4nt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHaXyuwkSg/iMjsU66FvVUEU655H5--Sg/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHaXyuwkSg/iMjsU66FvVUEU655H5--Sg/view?utm_content=DAHaXyuwkSg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">5.- Criterios de evaluación asociados a las actividades</a> de Miguel Ángel Gómez Mercado</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvql1az8-t33pi5ccm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6.- Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.- Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6.- Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvql1az8-t33pi5ccm</odePageId>
+      <odeBlockId>block-mw9b7kid-ogvqfw9xn</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvql1az8-t33pi5ccm</odePageId>
+          <odeBlockId>block-mw9b7kid-ogvqfw9xn</odeBlockId>
+          <odeIdeviceId>idevice-1794231669396-2i8y6m7as</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHabk0Wjcw/TttBoXiAd-MseFBBzkj9IA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHabk0Wjcw/TttBoXiAd-MseFBBzkj9IA/view?utm_content=DAHabk0Wjcw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">6.- Instrumentos de evaluación</a> de Miguel Ángel Gómez Mercado</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794231669396-2i8y6m7as","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHabk0Wjcw/TttBoXiAd-MseFBBzkj9IA/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHabk0Wjcw/TttBoXiAd-MseFBBzkj9IA/view?utm_content=DAHabk0Wjcw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">6.- Instrumentos de evaluación</a> de Miguel Ángel Gómez Mercado</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvql2rno-t3ocagdip</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7.- Guía didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.- Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7.- Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvql2rno-t3ocagdip</odePageId>
+      <odeBlockId>block-mw9nawo0-b30bgvtjt</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvql2rno-t3ocagdip</odePageId>
+          <odeBlockId>block-mw9nawo0-b30bgvtjt</odeBlockId>
+          <odeIdeviceId>idevice-1794251980511-nmtmmdkwv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="914" height="457" src="https://docs.google.com/document/d/e/2PACX-1vT1rRB0JefXxIfm1se4hvp0ebL2iA-XPz_PmbOsTTr-ekb4BVIcP91NGf_JhCfVgg/pub?embedded=true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794251980511-nmtmmdkwv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"914\" height=\"457\" src=\"https://docs.google.com/document/d/e/2PACX-1vT1rRB0JefXxIfm1se4hvp0ebL2iA-XPz_PmbOsTTr-ekb4BVIcP91NGf_JhCfVgg/pub?embedded=true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvql2b3r-944xpbuei</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8.- Créditos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8.- Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8.- Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvql2b3r-944xpbuei</odePageId>
+      <odeBlockId>block-mw9ojuku-kd401i5hs</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvql2b3r-944xpbuei</odePageId>
+          <odeBlockId>block-mw9ojuku-kd401i5hs</odeBlockId>
+          <odeIdeviceId>idevice-1794254077318-yz26y08fr</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption title="el-reloj-de-guille.elpx"><span style="font-family: arial, helvetica, sans-serif;"><strong><span style="font-size: 14pt;"><a href="{{context_path}}/content/resources/el-reloj-de-guille.elpx" title="el-reloj-de-guille.elpx" target="_blank" rel="noopener">el-reloj-de-guille.elpx</a></span></strong></span></caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">El reloj de Guille</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Introducción al lenguaje geométrico mediante diseño y reproducción de un reloj geométrico</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Miguel Ángel Gómez Mercado</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - non commercial 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvql2b3r-944xpbuei</odePageId>
+      <odeBlockId>block-mw9necc0-pxza33882</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvql2b3r-944xpbuei</odePageId>
+          <odeBlockId>block-mw9necc0-pxza33882</odeBlockId>
+          <odeIdeviceId>idevice-1794252140783-nw8gp65ow</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3><span style="font-family: arial, helvetica, sans-serif;"><strong><span style="color: #34495e;">CRÉDITOS Y DERECHOS DE AUTOR</span></strong></span></h3>
+<h5><br /><span style="font-family: arial, helvetica, sans-serif;"><strong><span style="color: #3598db;">Autoría y Titularidad del Proyecto</span></strong></span></h5>
+<p><span style="font-family: arial, helvetica, sans-serif;"><strong>Autor y Diseñador Principal:</strong> Miguel Ángel Gómez Mercado (MAGM).</span><br /><span style="font-family: arial, helvetica, sans-serif;"><strong>Materia / Área Curricular:</strong> Educación Plástica, Visual y Audiovisual (EPVA).</span><br /><span style="font-family: arial, helvetica, sans-serif;"><strong>Nivel Educativo: </strong>1.º de Educación Secundaria Obligatoria (ESO).</span><br /><span style="font-family: arial, helvetica, sans-serif;"><strong>Título de la Situación de Aprendizaje:</strong> El reloj de Guille.</span></p>
+<h5><span style="font-family: arial, helvetica, sans-serif;"><strong><span style="color: #3598db;">Descripción y Finalidad Didáctica</span></strong></span></h5>
+<p><span style="font-family: arial, helvetica, sans-serif;"><strong>Resumen del Proyecto: </strong>Situación de aprendizaje orientada a la iniciación en el lenguaje geométrico, las construcciones con trazados técnicos (paralelismo, perpendicularidad, mediatrices, bisectrices, trazado de ángulos y circunferencias) y el uso expresivo del color mediante el diseño integral de un reloj geométrico.</span><br /><span style="font-family: arial, helvetica, sans-serif;"><strong>Enfoque Metodológico: </strong>Aprendizaje Basado en Proyectos (ABP), Aula Invertida (Flipped Learning), Trabajo Cooperativo y Principios del Diseño Universal para el Aprendizaje (DUA).</span><br /><span style="font-family: arial, helvetica, sans-serif;"><strong>Alcance Temporal:</strong> 12 a 14 sesiones de trabajo en el aula de dibujo</span><br /></p>
+<h5><strong><span style="color: #3598db; font-family: arial, helvetica, sans-serif;">Licencia de Uso y Derechos Digitales</span></strong></h5>
+<p><span style="font-family: arial, helvetica, sans-serif;"><strong>Licencia de Propiedad Intelectual: </strong>Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC).</span><br /><span style="font-family: arial, helvetica, sans-serif;">Términos de la Licencia:</span><br /><span style="font-family: arial, helvetica, sans-serif;"><strong>Atribución (BY):</strong> Se permite la copia, distribución, exhibición y uso del material siempre que se reconozca explícitamente la autoría de Miguel Ángel Gómez Mercado.</span><br /><span style="font-family: arial, helvetica, sans-serif;"><strong>No Comercial (NC): </strong>Queda estrictamente prohibida la explotación comercial o venta de este recurso o de sus materiales derivados.</span><br /><span style="font-family: arial, helvetica, sans-serif;"><strong>Protección de Datos e Identidad Digital:</strong> El uso de imágenes del alumnado, muestras de trabajos o difusión en redes y plataformas educativas debe respetar la privacidad, el derecho a la propia imagen y las buenas prácticas de navegación segura y derechos digitales.</span><br /><span style="font-family: arial, helvetica, sans-serif;"> </span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794252140783-nw8gp65ow","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #34495e;\">CRÉDITOS Y DERECHOS DE AUTOR</span></strong></span></h3>\n<h5><br /><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #3598db;\">Autoría y Titularidad del Proyecto</span></strong></span></h5>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Autor y Diseñador Principal:</strong> Miguel Ángel Gómez Mercado (MAGM).</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Materia / Área Curricular:</strong> Educación Plástica, Visual y Audiovisual (EPVA).</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Nivel Educativo: </strong>1.º de Educación Secundaria Obligatoria (ESO).</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Título de la Situación de Aprendizaje:</strong> El reloj de Guille.</span></p>\n<h5><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #3598db;\">Descripción y Finalidad Didáctica</span></strong></span></h5>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Resumen del Proyecto: </strong>Situación de aprendizaje orientada a la iniciación en el lenguaje geométrico, las construcciones con trazados técnicos (paralelismo, perpendicularidad, mediatrices, bisectrices, trazado de ángulos y circunferencias) y el uso expresivo del color mediante el diseño integral de un reloj geométrico.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Enfoque Metodológico: </strong>Aprendizaje Basado en Proyectos (ABP), Aula Invertida (Flipped Learning), Trabajo Cooperativo y Principios del Diseño Universal para el Aprendizaje (DUA).</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Alcance Temporal:</strong> 12 a 14 sesiones de trabajo en el aula de dibujo</span><br /></p>\n<h5><strong><span style=\"color: #3598db; font-family: arial, helvetica, sans-serif;\">Licencia de Uso y Derechos Digitales</span></strong></h5>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Licencia de Propiedad Intelectual: </strong>Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC).</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Términos de la Licencia:</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Atribución (BY):</strong> Se permite la copia, distribución, exhibición y uso del material siempre que se reconozca explícitamente la autoría de Miguel Ángel Gómez Mercado.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>No Comercial (NC): </strong>Queda estrictamente prohibida la explotación comercial o venta de este recurso o de sus materiales derivados.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Protección de Datos e Identidad Digital:</strong> El uso de imágenes del alumnado, muestras de trabajos o difusión en redes y plataformas educativas debe respetar la privacidad, el derecho a la propia imagen y las buenas prácticas de navegación segura y derechos digitales.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\"> </span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
